@@ -1,0 +1,34 @@
+{
+    "books":{
+        "1":{
+            "id": 1,
+            "title": "aaa",
+            "author": "aaaa",
+            "price": 10
+        },
+        "2":{
+            "id": 2,
+            "title": "bbb",
+            "author": "ccc",
+            "price": 20
+        },
+        "3":{
+            "id": 3,
+            "title": "ccc",
+            "author": "ccc",
+            "price": 30
+        },
+        "4":{
+            "id": 4,
+            "title": "ddd",
+            "author": "ddd",
+            "price": 40
+        }
+    }
+ ,
+    "customers":{
+        "1":{"name":"ouriel" , "id":"303303030", "phon":"0546374388", "birtDay":"12-1-1990"}
+    }
+
+    
+}
