@@ -7,7 +7,7 @@ let db_id = 2;
 
 app.get('/' , (req, res) => {
     
-    console.log("main Customers endpoint!!!!!!!!!!!!!!");
+    console.log("main Customers endpoint!!!!!!!!");
     res.send(db['customers'])
 })
 // app.get('/customer{id}' , (req, res) => {
